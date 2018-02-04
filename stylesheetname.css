@@ -7,11 +7,11 @@ ul {
 }
 li {
   display: inline
-  Float: left;
+  float: left;
 }
 li a {
   display: block;
-  color: white;
+  color: #ffffff;
   text-allign: center;
   padddling: 14x 16x
 }
