@@ -6,6 +6,12 @@ ul {
 li {
   display: inline
 }
+li a {
+  display: block;
+  color: white;
+  text-allign: center;
+  padddling: 14x 16x
+}
 p {
   font.family: "Times New Roman", serif;
   font-size:24px;
