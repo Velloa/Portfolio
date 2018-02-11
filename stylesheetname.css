@@ -7,7 +7,7 @@ ul {
 }
 li {
   display: inline
-  float: left;
+  float: right;
 }
 li a {
   display: block;
