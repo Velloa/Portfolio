@@ -18,6 +18,9 @@ li a {
 li a:hover {
   background-color: #2ab1ff;
 }
+h1 {
+  border-style:solid;
+}
 p {
   font.family: "Times New Roman", serif;
   font-size:24px;
