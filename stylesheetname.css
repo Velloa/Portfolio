@@ -23,6 +23,9 @@ h1 {
   border-width: 20px;
   border-color: #f44242;
   padding: 5px;
+  float-left;
+  
+}
 p {
   font.family: "Times New Roman", serif;
   font-size:24px;
