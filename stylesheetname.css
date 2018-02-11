@@ -23,7 +23,7 @@ h1 {
   border-width: 20px;
   border-color: #f44242;
   padding: 5px;
-  float-left;
+  float:left;
   
 }
 p {
