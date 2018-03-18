@@ -1,3 +1,9 @@
+.pokemon {
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
