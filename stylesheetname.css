@@ -33,9 +33,9 @@ li a:hover:not(.active) {
 }
   
 }
-.id {
+.welcome {
   border-style: dotted;
-  border-width: 10px;
+  border-width: 5px;
   border-color: #f44242;
   padding: 5px;
 }
