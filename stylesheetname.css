@@ -33,15 +33,18 @@ li a:hover:not(.active) {
 }
   
 }
-h1 {
+.id {
   border-style: dotted;
   border-width: 10px;
   border-color: #f44242;
   padding: 5px;
 }
+
 p {
   font.family: "Times New Roman", serif;
   font-size:24px;
   color: #825fc6
 }
-body {background-color: #92a8d1;}
+body {
+  background-color: #92a8d1;
+}
