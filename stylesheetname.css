@@ -1,22 +1,30 @@
 ul {
-  list-style-type: none;
-  margin: 10px;
-  padding: 10px;
-  overflow: hidden;
-  background-color: #2ab1ff;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
 }
+
 li {
-  display: inline
-  float: right;
+    float: left;
 }
+
 li a {
-  display: block;
-  color: #effcff;
-  text-allign: center;
-  padddling: 14x 16x
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
-li a:hover {
-  background-color: #c4ffed;
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
   
 }
 h1 {
