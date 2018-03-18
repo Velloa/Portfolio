@@ -17,6 +17,7 @@ li a {
 }
 li a:hover {
   background-color: #c4ffed;
+  
 }
 h1 {
   border-style: dotted;
@@ -29,3 +30,4 @@ p {
   font-size:24px;
   color: #825fc6
 }
+body {background-color: #92a8d1;}
